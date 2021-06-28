@@ -1,0 +1,6 @@
+projectKey=com.nandihal:Maven-Project
+serverUrl=http://localhost:9000
+serverVersion=7.9.6.41879
+dashboardUrl=http://localhost:9000/dashboard?id=com.nandihal%3AMaven-Project
+ceTaskId=AXmhLu1vQH5mxcdxKoPE
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXmhLu1vQH5mxcdxKoPE
