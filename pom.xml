@@ -122,13 +122,13 @@
 <repository>
 <id>nexus</id>
 <name>releaserepo</name>
-<url>http://localhost:8081/repository/maven-apr-release-2021/</url>
+<url>http://13.232.63.150:8081/repository/maven-june-release/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus</id>
 <name>snapshotrepo</name>
-<url>http://localhost:8081/repository/maven-apr-snapshot-2021/</url>
+<url>http://13.232.63.150:8081/repository/maven-june-snapshot/</url>
 </snapshotRepository>
  
 </distributionManagement>
